@@ -1,7 +1,7 @@
 # Portfolio
 # Multimedia Portfolio Website Documentation
 
-## Project Overview (Edit the content as required)
+## Project Overview 
 This HTML file represents the main structure of a personal portfolio webpage for Pasindu Silva, a frontend developer. The webpage includes a navigation bar with links to different sections like About, Experience, Projects, Contact, and Blog. There are two navigation sections, one for desktop view and the other for a hamburger menu on smaller screens.
 
 The "profile" section introduces Pasindu Silva with a profile picture, a greeting, and a description of his role as a frontend developer. It also provides buttons to download his CV and access contact information. Social media icons for LinkedIn and GitHub are included for further networking.
